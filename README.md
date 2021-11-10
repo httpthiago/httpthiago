@@ -21,12 +21,13 @@
 <a href="https://www.linkedin.com/in/thiago-gonzalez-a175281b7/"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ## GitHub Stats:
-
 <div align = "center">
   <a href="https://github.com/httpthiago">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=httpthiago&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpthiago&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
+  
+![Snake animation](https://github.com/httpthiago/httpthiago/blob/output/github-contribution-grid-snake.svg)
   
   
 
