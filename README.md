@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/4SdB78W.gif" height="300">
 
 
-- 👨‍🎓 Curso Sistemas de informação na Uiversidade Federal Rural da Amazônia (UFRA)
+- 👨‍🎓 Curso Sistemas de informação na Universidade Federal Rural da Amazônia (UFRA)
 - 🧑🏻‍💻 Pretendo me tornar um desenvolvedor de aplicações WEB
 - 💻 Atualmente estudo Node.js
 - 🎮 Nas horas vagas, gosto de desenvolver jogos
