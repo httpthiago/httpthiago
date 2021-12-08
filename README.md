@@ -4,7 +4,7 @@
 
 - 👨‍🎓 Curso Sistemas de informação na Universidade Federal Rural da Amazônia (UFRA)
 - 🌎 Pretendo me tornar um desenvolvedor de aplicações WEB
-- 💻 Atualmente estudo Node.js
+- 💻 Atualmente estudo Java
 - 🎮 Nas horas vagas, gosto de desenvolver jogos
 - 📫 Email para contato: thiagogonzalez.dev@gmail.com
 
