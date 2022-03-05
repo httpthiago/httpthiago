@@ -6,6 +6,4 @@ Information Systems student and Software Developer.
 <a href="https://www.linkedin.com/in/thiago-gonzalez-a175281b7/"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 I love play video games and study programming technologies. 
-
-Currenty learning web development JavaScript stack (React JS and Node.js).
  
