@@ -7,5 +7,5 @@ Information Systems student and Software Developer.
 
 I love study programming technologies. 
 
-Currently learning mobile development with Dart/Flutter stack.
+Currently learning JavaScript.
  
