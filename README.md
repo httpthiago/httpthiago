@@ -7,5 +7,5 @@ Information Systems student and Software Developer.
 
 I love study programming technologies. 
 
-Currently learning JavaScript.
+I had experience in game development with C#, but now i'm focusing in full stack web development JavaScript stack.
  
